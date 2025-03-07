@@ -10,6 +10,7 @@ This project utilizes the UCI Heart Disease dataset, consisting of clinical data
 
 - Predictive Model: Random Forest classifier for heart disease prediction.
 - Data Processing: Handles missing values, one-hot encoding, and feature scaling.
+- 
 
 
 
